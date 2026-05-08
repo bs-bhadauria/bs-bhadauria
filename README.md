@@ -80,6 +80,11 @@ AI-powered developer tool for intelligent code analysis and improvement suggesti
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
+
+
+
+
+  
 <a href="https://github.com/bs-bhadauria" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
