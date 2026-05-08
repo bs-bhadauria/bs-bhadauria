@@ -9,18 +9,18 @@ Edge AI & DevOps Enthusiast | Building Scalable AI Systems, Cloud Infrastructure
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science Engineering student at **Central University of Haryana**
 - 🤖 Passionate about **Edge AI, Federated Learning & Distributed Systems**
-- ☁️ Exploring **Cloud Infrastructure, Kubernetes & DevOps**
+- ☁️ Expetise in **Cloud Infrastructure, Kubernetes & DevOps**
 - 🔐 Interested in **Cybersecurity & Secure AI Systems**
 - 🛠️ Building real-world AI & automation projects
 - 🌱 Currently learning **Advanced AI Infrastructure & Agentic Systems**
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -44,7 +44,7 @@ Edge AI & DevOps Enthusiast | Building Scalable AI Systems, Cloud Infrastructure
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 Privacy-Preserving Federated Edge Intelligence
 Built an end-to-end federated learning pipeline for decentralized object detection using PyTorch, Flower, OpenCV, CUDA, and gRPC.
@@ -60,7 +60,7 @@ AI-powered developer tool for intelligent code analysis and improvement suggesti
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bs-bhadauria&show_icons=true&theme=tokyonight" height="180em"/>
@@ -73,17 +73,14 @@ AI-powered developer tool for intelligent code analysis and improvement suggesti
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/bhoopendra-singh-bhadauria" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-
-
-
-
-
+<br>
+<br>
   
 <a href="https://github.com/bs-bhadauria" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
@@ -92,7 +89,7 @@ AI-powered developer tool for intelligent code analysis and improvement suggesti
 
 ---
 
-## 🏆 Career Interests
+## Career Interests
 
 - Edge AI Engineering
 - Federated Learning
@@ -104,5 +101,5 @@ AI-powered developer tool for intelligent code analysis and improvement suggesti
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/bs-bhadauria">bs-bhadauria</a>
+  ⭐️ From <a href="https://github.com/bs-bhadauria">Bhoopendra Singh Bhadauria</a>
 </p>
