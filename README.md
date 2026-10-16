@@ -1,39 +1,105 @@
-<!-- Zero-Downtime Animated Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhoopendra+Singh+Bhadauria" alt="Header Name" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%F0%9F%9A%80+Edge+AI+%26+Federated+Learning+Engineer;%E2%98%81%EF%B8%8F+Architecting+Scalable+Cloud+%26+DevOps+Pipelines;%F0%9F%94%90+Securing+Distributed+%26+Intelligent+AI+Systems;%F0%9F%8C%B1+Exploring+Advanced+AI+Infrastructure+%26+Agentic+Systems" alt="Subtitles" />
-</div>
+<h1 align="center">Hi 👋, I'm Bhoopendra Singh Bhadauria</h1>
+<h3 align="center">
+Edge AI & DevOps Enthusiast | Building Scalable AI Systems, Cloud Infrastructure & Open Source Projects
+</h3>
 
-<!-- Dynamic Interactive Status & Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/bhoopendra-singh-bhadauria" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/bs-bhadauria" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bs-bhadauria&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bs-bhadauria?label=Followers&style=for-the-badge&color=70a5fd" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bs-bhadauria?label=Total%20Stars&style=for-the-badge&color=00f7ff" alt="Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Edge+AI+Engineer;DevOps+%26+Cloud+Enthusiast;Federated+Learning+Explorer;Open+Source+Contributor;Cybersecurity+Learner" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## ⚡ `whoami` — System Telemetry
+## About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+- 🎓 Computer Science Engineering student at **Central University of Haryana**
+- 🤖 Passionate about **Edge AI, Federated Learning & Distributed Systems**
+- ☁️ Expetise in **Cloud Infrastructure, Kubernetes & DevOps**
+- 🔐 Interested in **Cybersecurity & Secure AI Systems**
+- 🛠️ Building real-world AI & automation projects
+- 🌱 Currently learning **Advanced AI Infrastructure & Agentic Systems**
 
-```yaml
-name: "Bhoopendra Singh Bhadauria"
-education: "B.Tech CSE @ Central University of Haryana"
-architecture_focus:
-  - "Edge AI & Federated Learning"
-  - "Cloud-Native Infrastructure & Kubernetes"
-  - "DevSecOps & Automated CI/CD Workflows"
-  - "Distributed & Privacy-Preserving Systems"
-current_research:
-  - "Advanced AI Infrastructure"
-  - "Autonomous Agentic Systems"
-status: "Building real-world AI & cloud automation 🚀"
+---
+
+## Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
+</p>
+
+### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform,ansible,gcp" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### 🔹 Privacy-Preserving Federated Edge Intelligence
+Built an end-to-end federated learning pipeline for decentralized object detection using PyTorch, Flower, OpenCV, CUDA, and gRPC.
+
+### 🔹 Kubernetes Monitoring & Alerting System
+Real-time Kubernetes observability solution using Prometheus, Grafana, and Slack-based alerting.
+
+### 🔹 AWS CI/CD Docker Jenkins Pipeline
+Automated Docker deployment workflow on AWS EC2 using Jenkins and Docker Hub.
+
+### 🔹 CodeSage AI Reviewer
+AI-powered developer tool for intelligent code analysis and improvement suggestions.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bs-bhadauria&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bs-bhadauria&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bs-bhadauria&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/bhoopendra-singh-bhadauria" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<br>
+<br>
+  
+<a href="https://github.com/bs-bhadauria" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## Career Interests
+
+- Edge AI Engineering
+- Federated Learning
+- AI Infrastructure
+- Distributed Systems
+- DevOps & Cloud Automation
+- Secure Intelligent Systems
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/bs-bhadauria">Bhoopendra Singh Bhadauria</a>
+</p>
